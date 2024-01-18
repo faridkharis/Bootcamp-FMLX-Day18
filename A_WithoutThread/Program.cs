@@ -3,38 +3,38 @@ using System.Diagnostics;
 
 public static class Program
 {
-	public static void Main()
-	{
-		//Environment print
-		//ThreadId
-		Console.WriteLine("Starting program.");
-		var stopwatch = new Stopwatch();
-		
-		stopwatch.Start();
-		DoTaskOne();
-		DoTaskTwo();
-		stopwatch.Stop();
+  public static void Main()
+  {
+    //Environment print
+    //ThreadId
+    Console.WriteLine("Starting program.");
+    var stopwatch = new Stopwatch();
 
-		Console.WriteLine($"\nProgram complete. Elapsed time: {stopwatch.ElapsedMilliseconds}ms");
-	}
+    stopwatch.Start();
+    DoTaskOne();
+    DoTaskTwo();
+    stopwatch.Stop();
 
-	public static void DoTaskOne()
-	{
-		//Environment print
-		//ThreadId
-		for(int i = 0; i < 100000; i++) 
-		{
-			Console.Write('+');
-		}
-	}
+    Console.WriteLine($"\nProgram complete. Elapsed time: {stopwatch.ElapsedMilliseconds}ms");
+  }
 
-	public static void DoTaskTwo()
-	{
-		//Environment print
-		//ThreadId
-		for(int i = 0; i < 100000; i++) 
-		{
-			Console.Write('-');
-		}
-	}
+  public static void DoTaskOne()
+  {
+    //Environment print
+    //ThreadId
+    for (int i = 0; i < 100; i++)
+    {
+      Console.Write('+');
+    }
+  }
+
+  public static void DoTaskTwo()
+  {
+    //Environment print
+    //ThreadId
+    for (int i = 0; i < 100; i++)
+    {
+      Console.Write('-');
+    }
+  }
 }

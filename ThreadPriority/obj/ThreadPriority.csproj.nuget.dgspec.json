@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/Day18/ThreadPriority/ThreadPriority.csproj": {}
+    "D:\\PROJECTS\\Formulatrix\\Bootcamp\\Day18\\ThreadPriority\\ThreadPriority.csproj": {}
   },
   "projects": {
-    "/workspaces/Day18/ThreadPriority/ThreadPriority.csproj": {
+    "D:\\PROJECTS\\Formulatrix\\Bootcamp\\Day18\\ThreadPriority\\ThreadPriority.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/Day18/ThreadPriority/ThreadPriority.csproj",
+        "projectUniqueName": "D:\\PROJECTS\\Formulatrix\\Bootcamp\\Day18\\ThreadPriority\\ThreadPriority.csproj",
         "projectName": "ThreadPriority",
-        "projectPath": "/workspaces/Day18/ThreadPriority/ThreadPriority.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/Day18/ThreadPriority/obj/",
+        "projectPath": "D:\\PROJECTS\\Formulatrix\\Bootcamp\\Day18\\ThreadPriority\\ThreadPriority.csproj",
+        "packagesPath": "C:\\Users\\farid\\.nuget\\packages\\",
+        "outputPath": "D:\\PROJECTS\\Formulatrix\\Bootcamp\\Day18\\ThreadPriority\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\farid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -48,12 +50,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.306/sdk/7.0.306/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

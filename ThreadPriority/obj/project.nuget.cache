@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "FExDfhmmkIJYaPXNNAd26Yqm5QX4GiY756oWe0AmF1VPIQ9kZQJbHzfvpbsVA1eIgAxQxaNOvNLyxuB/iOgEZA==",
+  "dgSpecHash": "FAV48EDp3T87dg/v2VaHcPuAkHdLzs5+wWrHLykmg6EIQ+ZavrBVdj92wOt4gOBLJpxthhOuMctIFh9r7FXjgA==",
   "success": true,
-  "projectFilePath": "/workspaces/Day18/ThreadPriority/ThreadPriority.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\PROJECTS\\Formulatrix\\Bootcamp\\Day18\\ThreadPriority\\ThreadPriority.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\farid\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\farid\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\farid\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\farid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

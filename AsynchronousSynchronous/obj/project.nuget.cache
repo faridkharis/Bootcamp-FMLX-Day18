@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "mIm64l1GHHCUdqQBkdwRre0ZNMl6IboBgN7X72Www087FDUmECe0u/CWtSzT4d9IVMa8nIME1lpAPv5VwLWXyQ==",
+  "dgSpecHash": "HTVbfqJ0s1xAjDEyRJSDcgM3DD1URQBmFGSRKfblUJcF3d37aYv2LkDPUd2UAMwD5skflQ4fT3+0fVg45aaRjw==",
   "success": true,
-  "projectFilePath": "/workspaces/Day18/AsynchronousSynchronous/AsynchronousSynchronous.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\PROJECTS\\Formulatrix\\Bootcamp\\Day18\\AsynchronousSynchronous\\AsynchronousSynchronous.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\farid\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\farid\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\farid\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\farid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }
